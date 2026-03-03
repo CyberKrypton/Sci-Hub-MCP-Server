@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="./README.md">English</a> | <a href="./README_CN.md">简体中文</a>
+</p>
+
 # Sci-Hub MCP Server
 
 A [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server that enables AI assistants to search and download academic papers from Sci-Hub.
@@ -139,7 +143,9 @@ Sci-Hub-MCP-Server/
   sci_hub_server.py      # MCP server (FastMCP entry point)
   sci_hub_search.py      # Core search & download logic
   requirements.txt       # Python dependencies
-  README.md              # This file
+  README.md              # English documentation
+  README_CN.md           # Chinese documentation
+  LICENSE                # MIT License
 ```
 
 ## License
